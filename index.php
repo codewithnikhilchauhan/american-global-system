@@ -8,7 +8,7 @@
     
    <?php include 'include/banner.inc.php'; ?>
 
-   
+   test
 
   <?php include 'include/about.inc.php'; ?>
 
